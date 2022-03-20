@@ -7,7 +7,7 @@
 </div>
 
 <p>Pokefly es una aplicación movil que consume la informacion provista por la <a href='https://pokeapi.co' target='_blank'>API</a> de Pokemons. El usuario podrá buscar pokemons a partir de su nombre, como así tambien búsquedas parciales. La app cuenta con tres screens.
-En el Home o pantalla inicial, el usuario podra visualizar un listado de todos los pokemones disponibles, los cuales están contenidos en una card. Si selecciona un pokemon en particular, navegará hacia la pantalla de detalle del mismo. En cambio, si presiona el boton que se encuentra en la parte inferior de la pantalla de home, navegará hacia la pantalla de search, donde podrá realizar la búsqueda antes mencionada.
+En el Home o pantalla inicial, el usuario podra visualizar un listado de todos los pokemones disponibles, los cuales están contenidos en una card. Si selecciona un pokemon en particular, navegará hacia la pantalla de detalle del mismo. En cambio, si presiona el botón que se encuentra en la parte inferior de la pantalla de home, navegará hacia la pantalla de search, donde podrá realizar la búsqueda antes mencionada.
 
 </p>
 
