@@ -28,7 +28,7 @@ En el Home o pantalla inicial, el usuario podra visualizar un listado de todos l
 
 Clonar el repositorio
 <ul>
-  <li>git clone </li>
+  <li>git clone https://github.com/GDC94/Pokefly.git </li>
 </ul>
 
 
